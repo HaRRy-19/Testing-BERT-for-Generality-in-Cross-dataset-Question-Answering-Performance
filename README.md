@@ -1,0 +1,2 @@
+# Testing-BERT-for-Generality-in-Cross-dataset-Question-Answering-Performance
+The BERT model is a transformer-based machine learning technique for Natural Language Processing, pre-trained using unlabeled text on deep bidirectional representations.  We fine-tune BERT-based models for Question Answering using different industry-standard datasets. Afterwards, we evaluate these models using evaluation sets of the other datasets.
